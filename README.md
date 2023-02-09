@@ -1,2 +1,2 @@
-## ChatGPT with Python using OpenAI
-# By Ray Turner
+# ChatGPT with Python using OpenAI
+## By Ray Turner
